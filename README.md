@@ -1,1 +1,1 @@
-# CSS animations and API github
+# CSS animations and github API
